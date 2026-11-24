@@ -1,0 +1,65 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Q01",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}/Q01/Q01.csproj"
+    },
+    {
+      "name": "Q02",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}/Q02/Q02.csproj"
+    },
+    {
+      "name": "Q03",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}/Q03/Q03.csproj"
+    },
+    {
+      "name": "Q04",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}/Q04/Q04.csproj"
+    },
+    {
+      "name": "Q05",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}/Q05/Q05.csproj"
+    },
+    {
+      "name": "Q06",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}/Q06/Q06.csproj"
+    },
+    {
+      "name": "Q07",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}/Q07/Q07.csproj"
+    },
+    {
+      "name": "Q08",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}/Q08/Q08.csproj"
+    },
+    {
+      "name": "Q09",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}/Q09/Q09.csproj"
+    },
+    {
+      "name": "Q10",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}/Q10/Q10.csproj"
+    }
+  ]
+}

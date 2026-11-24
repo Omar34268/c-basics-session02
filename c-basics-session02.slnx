@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="Q01/Q01.csproj" />
+  <Project Path="Q02/Q02.csproj" />
+  <Project Path="Q03/Q03.csproj" />
+  <Project Path="Q04/Q04.csproj" />
+  <Project Path="Q05/Q05.csproj" />
+  <Project Path="Q06/Q06.csproj" />
+  <Project Path="Q07/Q07.csproj" />
+  <Project Path="Q08/Q08.csproj" />
+  <Project Path="Q09/Q09.csproj" />
+  <Project Path="Q10/Q10.csproj" />
+</Solution>
